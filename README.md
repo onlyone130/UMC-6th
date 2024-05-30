@@ -1,4 +1,5 @@
 # UMC-6th
+>android study
 
 [notion](https://storm-sunshine-cfa.notion.site/UMC-6th-f509e87b876e42388c020437c2a5ccc6?pvs=4)
 
@@ -13,3 +14,4 @@
 >2024.05.18
 
 >2024.05.25
+
